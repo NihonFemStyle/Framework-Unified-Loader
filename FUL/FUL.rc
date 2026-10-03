@@ -1,0 +1,17 @@
+#include "resource.h"
+
+IDR_VACBYPASS RCDATA ".\\res\\VAC-Bypass.dll"
+IDR_ICON ICON ".\\res\\icon.ico"
+
+IDR_GH_EXE RCDATA ".\\res\\GHInjector\\GH Injector - x64.exe"
+IDR_GH_QT5CORE RCDATA ".\\res\\GHInjector\\Qt5Core.dll"
+IDR_GH_QT5GUI RCDATA ".\\res\\GHInjector\\Qt5Gui.dll"
+IDR_GH_QT5WIDGETS RCDATA ".\\res\\GHInjector\\Qt5Widgets.dll"
+IDR_GH_QWINDOWS RCDATA ".\\res\\GHInjector\\platforms\\qwindows.dll"
+IDR_GH_QJPEG RCDATA ".\\res\\GHInjector\\imageformats\\qjpeg.dll"
+IDR_GH_DLL RCDATA ".\\res\\GHInjector\\GH Injector - x64.dll"
+IDR_GH_SM86 RCDATA ".\\res\\GHInjector\\GH Injector SM - x86.exe"
+IDR_SYNAPSE_DLL RCDATA ".\\res\\Synapse.dll"
+IDR_ICON_ICO RCDATA ".\\res\\Icon.ico"
+IDR_MUSIC_MAIN RCDATA ".\\res\\Synapse\\music.mp3"
+IDR_SPLASH RCDATA ".\\res\\splash.png"
